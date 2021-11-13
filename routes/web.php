@@ -12,10 +12,16 @@ use Illuminate\Support\Facades\Route;
 | contains the "web" middleware group. Now create something great!
 |
 */
-
 Route::get('/', function () {
+    return view('foruser.dashboard');
+});
+Route::get('/login', function () {
     return view('login.login');
 });
 Route::get('/register', function () {
     return view('login.register');
 });
+Route::get('/forgot', function () {
+    return view('Login.forgotpw');
+});
+
