@@ -48,16 +48,17 @@
 		    			<div class="top_ber_right">
 		    				<div class="top-menu">
 		    					<ul class="nav navbar-nav">
-                                    <li class="dropdown">
+                                    <!-- <li class="dropdown">
                                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Hi, Ilham Ibrahim <b class="caret"></b></a>
                                         <ul class="dropdown-menu">
                                             <li><a href="#">Edit Password</a></li>
                                             <li><a href="#">Detail Profil</a></li>
                                             <li><a href="#">Logout</a></li>
                                         </ul>
-                                    </li>
-			                        <!-- <li><a href="/login">Login</a></li>
-			                        <li><a href="/register">Register</a></li> -->
+                                    </li> -->
+			                        <li><a href="/login">Login</a></li>
+                                    <li><a href="#">/</a></li>
+			                        <li><a href="/register">Register</a></li>
 	                    		</ul>
 		    				</div><!--top-menu-->
 		    			</div><!--top_ber_left-->

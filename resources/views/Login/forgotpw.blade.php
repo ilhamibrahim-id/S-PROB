@@ -10,7 +10,12 @@
 
 				<form class="login100-form validate-form">
 					<span class="login100-form-title">
-						Member Login
+						Reset Password
+                        <br />
+                        <a class="txt2" href="/">
+							Kembali Ke Dashboard
+							<i class="fa fa-long-arrow-right m-l-5" aria-hidden="true"></i>
+						</a>
 					</span>
 
 					<div class="wrap-input100 validate-input" data-validate = "Valid email is required: ex@abc.xyz">
@@ -28,7 +33,7 @@
 					</div>
 
 					<div class="text-center p-t-70">
-                        <a class="txt2" href="/">
+                        <a class="txt2" href="/login">
 							Sudah punya akun ? login disini
 							<i class="fa fa-long-arrow-right m-l-5" aria-hidden="true"></i>
 						</a>

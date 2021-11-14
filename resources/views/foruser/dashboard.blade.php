@@ -4,7 +4,7 @@
 <section id="feature_news_section" class="feature_news_section section_wrapper">
 <div class="container">
     <div class="row">
-        <div class="col-md-6">
+        <div class="col-md-12">
             <div class="feature_news_carousel">
                 <div id="featured-news-carousal" class="carousel slide" data-ride="carousel">
                     <!-- Wrapper for slides -->
@@ -57,56 +57,7 @@
                 </div><!--carousel-->
             </div><!--feature_news_carousel-->
         </div><!--col-md-6-->
-
-        <div class="col-md-6">
-            <div class="feature_news_static">
-                <div class="row">
-                    <div class="col-md-6">
-                        <div class="feature_news_item">
-                            <div class="item active">
-                                <div class="item_wrapper">
-                                    <div class="item_img">
-                                        <img class="img-responsive" src="{{ asset('img/img_feature.jpg')}}" alt="Chania">
-                                    </div> <!--item_img-->
-                                    <div class="item_title_date">
-                                        <div class="news_item_title">
-                                            <h2><a href="single.html">Track Roboto the Real Tracker.</a></h2>
-                                        </div>
-                                        <div class="item_meta"><a href="#">20Aug- 2015,</a> by:<a href="#">Jhonson</a></div>
-                                    </div><!--item_title_date-->
-                                </div> <!--item_wrapper-->
-                                <div class="item_content">Sed ut perspiciatis unde omnis iste natus error sit
-                                </div>
-
-                            </div><!--item-->
-                        </div><!--feature_news_item-->
-                    </div>
-
-                    <div class="col-md-6">
-                        <div class="feature_news_item">
-                            <div class="item active">
-                                <div class="item_wrapper">
-                                    <div class="item_img">
-                                        <img class="img-responsive" src="{{ asset('img/img_feature2.jpg')}}" alt="Chania">
-                                    </div> <!--item_img-->
-                                    <div class="item_title_date">
-                                        <div class="news_item_title">
-                                            <h2><a href="single.html">David villa change his team last year.</a></h2>
-                                        </div>
-                                        <div class="item_meta"><a href="#">20Aug- 2015,</a> by:<a href="#">Jhonson</a></div>
-                                    </div><!--item_title_date-->
-                                </div> <!--item_wrapper-->
-                                <div class="item_content">Sed ut perspiciatis unde omnis iste natus error sit
-                                </div>
-
-                            </div><!--item-->
-                        </div><!--feature_news_item-->
-                    </div><!--col-xs-6-->
-                </div><!--row-->
-            </div><!--feature_news_static-->
-        </div><!--col-md-6-->
-    </div><!--row-->
-</div><!--container-->
+<!--container-->
 </section><!--feature_news_section-->
 
 <!-- Feature Category Section & sidebar -->
@@ -275,153 +226,6 @@
                    </div><!--row-->
                </div><!--category_layout-->
 
-               <div class="category_layout">
-                   <div class="item_caregory teal"><h2><a href="#">Tennis</a></h2></div>
-                <div class="row">
-                       <div class="col-md-7">
-                        <div class="item active feature_news_item">
-                            <div class="item_wrapper">
-                                <div class="item_img">
-                                    <img class="img-responsive" src="{{ asset('img/img_feature_news3.jpg')}}" alt="Chania">
-                                </div><!--item_img-->
-                                <div class="item_title_date">
-                                    <div class="news_item_title">
-                                        <h2><a href="#">Leo Messi is boss of the bosses of the football world.</a></h3>
-                                    </div><!--news_item_title-->
-                                    <div class="item_meta"><a href="#">20Aug- 2015,</a> by:<a href="#">Jhonson</a></div>
-                                </div><!--item_title_date-->
-                            </div><!--item_wrapper-->
-                            <div class="item_content">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque.
-                            </div>
-
-                        </div><!--feature_news_item-->
-                       </div><!--col-md-7-->
-
-                       <div class="col-md-5">
-                        <div class="media_wrapper">
-                            <div class="media">
-                                <div class="media-left">
-                                    <a href="#"><img class="media-object" src="{{ asset('img/img-list7.jpg')}}" alt="Generic placeholder image"></a>
-                                </div><!--media-left-->
-                                <div class="media-body">
-                                    <h3 class="media-heading"><a href="#">Machester United start the player
-                                    </a></h3>
-
-                                    <p>Sed perspiciatis unde omnis iste natus voluptatem.</p>
-
-                                </div><!--media-body-->
-                            </div><!--media-->
-
-                            <div class="media">
-                                <div class="media-left">
-                                    <a href="#"><img class="media-object" src="{{ asset('img/img-list8.jpg')}}" alt="Generic placeholder image"></a>
-                                </div><!--media-left-->
-                                <div class="media-body">
-                                    <h3 class="media-heading"><a href="#">Machester United start the player
-                                    </a></h3>
-
-                                    <p>Sed perspiciatis unde omnis iste natus voluptatem.</p>
-
-                                </div><!--media-body-->
-                            </div><!--media-->
-
-                            <div class="media">
-                                <div class="media-left">
-                                    <a href="#"><img class="media-object" src="{{ asset('img/img-list9.jpg')}}" alt="Generic placeholder image"></a>
-                                </div><!--media-left-->
-                                <div class="media-body">
-                                    <h3 class="media-heading"><a href="#">Machester United start the player
-                                    </a></h3>
-
-                                    <p>Sed perspiciatis unde omnis iste natus voluptatem.</p>
-
-                                </div><!--media-body-->
-                            </div><!--media-->
-
-                            <div class="media">
-                                <div class="media-left">
-                                    <a href="#"><img class="media-object" src="{{ asset('img/img-list4.jpg')}}" alt="Generic placeholder image"></a>
-                                </div><!--media-left-->
-                                <div class="media-body">
-                                    <h3 class="media-heading"><a href="#">Machester United start the player
-                                    </a></h3>
-
-                                    <p>Sed perspiciatis unde omnis iste natus voluptatem.</p>
-
-                                </div><!--media-body-->
-                            </div><!--media-->
-                        </div><!--media_wrapper-->
-                       </div><!--col-md-5-->
-                   </div><!--row-->
-               </div><!--category_layout-->
-
-               <div id="more_news_item" class="more_news_item">
-                <div class="more_news_heading"><h2><a href="#">More News</a></h2></div>
-                <div class="row">
-                    <div class="col-md-4">
-                        <div class="feature_news_item">
-                            <div class="item">
-                                <div class="item_wrapper">
-                                    <div class="item_img">
-                                        <img class="img-responsive" src="{{ asset('img/img-news.jpg')}}" alt="Chania">
-                                    </div><!--item_img-->
-                                    <div class="item_title_date">
-                                        <div class="news_item_title">
-                                            <h3><a href="#">Track Roboto the Real Tracker.</a></h3>
-                                        </div><!--news_item_title-->
-                                        <div class="item_meta"><a href="#">20Aug- 2015,</a> by:<a href="#">Jhonson</a></div>
-                                    </div><!--item_title_date-->
-                                </div><!--item_wrapper-->
-                                <div class="item_content">Sed ut perspiciatis unde omnis iste natus error sit
-                                </div><!--item_content-->
-
-                            </div><!--item-->
-                        </div><!--feature_news_item-->
-                    </div><!--col-xs-4-->
-
-                    <div class="col-md-4">
-                        <div class="feature_news_item">
-                            <div class="item active">
-                                <div class="item_wrapper">
-                                    <div class="item_img">
-                                        <img class="img-responsive" src="{{ asset('img/img-news1.jpg')}}" alt="Chania">
-                                    </div><!--item_img-->
-                                    <div class="item_title_date">
-                                        <div class="news_item_title">
-                                            <h3><a href="#">Track Roboto the Real Tracker.</a></h3>
-                                        </div><!--news_item_title-->
-                                        <div class="item_meta"><a href="#">20Aug- 2015,</a> by:<a href="#">Jhonson</a></div>
-                                    </div><!--item_title_date-->
-                                </div><!--item_wrapper-->
-                                <div class="item_content">Sed ut perspiciatis unde omnis iste natus error sit
-                                </div><!--item_content-->
-
-                            </div><!--item-->
-                        </div><!--feature_news_item-->
-                    </div><!--col-xs-4-->
-
-                    <div class="col-md-4">
-                        <div class="feature_news_item">
-                            <div class="item active">
-                                <div class="item_wrapper">
-                                    <div class="item_img">
-                                        <img class="img-responsive" src="{{ asset('img/img-news2.jpg')}}" alt="Chania">
-                                    </div><!--item_img-->
-                                    <div class="item_title_date">
-                                        <div class="news_item_title">
-                                            <h3><a href="#">Track Roboto the Real Tracker.</a></h3>
-                                        </div><!--news_item_title-->
-                                        <div class="item_meta"><a href="#">20Aug- 2015,</a> by:<a href="#">Jhonson</a></div>
-                                    </div><!--item_title_date-->
-                                </div><!--item_wrapper-->
-                                <div class="item_content">Sed ut perspiciatis unde omnis iste natus error sit
-                                </div><!--item_content-->
-
-                            </div><!--item-->
-                        </div><!--feature_news_item-->
-                    </div><!--col-xs-4-->
-                </div><!--row-->
-            </div><!--more_news_item-->
            </div><!--col-md-9-->
 
            <div class="col-md-3">
@@ -440,13 +244,10 @@
                             </div><!--media-left-->
                             <div class="media-body">
                                 <h4 class="media-heading"><a href="#">Spain going to made class football</a></h4>
-                                <span class="rating">
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star-half-full"></i>
-                                </span>
+                                <div class="comment_box">
+                                    <div class="comments_icon"> <i class="fa fa-comments" aria-hidden="true"></i></div>
+                                    <div class="comments"><a href="#">20 Comments</a></div>
+                                </div><!--comment_box-->
                             </div><!--media-body-->
                         </div><!--media-->
 
@@ -456,13 +257,10 @@
                             </div><!--media-left-->
                             <div class="media-body">
                                 <h4 class="media-heading"><a href="#">Spain going to made class football</a></h4>
-                                <span class="rating">
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star-half-full"></i>
-                                </span>
+                                <div class="comment_box">
+                                    <div class="comments_icon"> <i class="fa fa-comments" aria-hidden="true"></i></div>
+                                    <div class="comments"><a href="#">20 Comments</a></div>
+                                </div><!--comment_box-->
                             </div><!--media-body-->
                         </div><!--media-->
 
@@ -472,13 +270,10 @@
                             </div><!--media-left-->
                             <div class="media-body">
                                 <h3 class="media-heading"><a href="#">Spain going to made class football</a></h3>
-                                <span class="rating">
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star-half-full"></i>
-                                </span>
+                                <div class="comment_box">
+                                    <div class="comments_icon"> <i class="fa fa-comments" aria-hidden="true"></i></div>
+                                    <div class="comments"><a href="#">20 Comments</a></div>
+                                </div><!--comment_box-->
                             </div><!--media-body-->
                         </div><!--media-->
 
@@ -488,13 +283,10 @@
                             </div><!--media-left-->
                             <div class="media-body">
                                 <h3 class="media-heading"><a href="#">Spain going to made class football</a></h3>
-                                <span class="rating">
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star-half-full"></i>
-                                </span>
+                                <div class="comment_box">
+                                    <div class="comments_icon"> <i class="fa fa-comments" aria-hidden="true"></i></div>
+                                    <div class="comments"><a href="#">20 Comments</a></div>
+                                </div><!--comment_box-->
                             </div><!--media-body-->
                         </div><!--media-->
                     </div><!--tab-pane-->
@@ -506,13 +298,10 @@
                             </div><!--media-left-->
                             <div class="media-body">
                                 <h3 class="media-heading"><a href="#">Spain going to made class football</a></h3>
-                                <span class="rating">
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star-half-full"></i>
-                                </span>
+                                <div class="comment_box">
+                                    <div class="comments_icon"> <i class="fa fa-comments" aria-hidden="true"></i></div>
+                                    <div class="comments"><a href="#">20 Comments</a></div>
+                                </div><!--comment_box-->
                             </div><!--media-body-->
                         </div><!--media-->
 
@@ -522,13 +311,10 @@
                             </div><!--media-left-->
                             <div class="media-body">
                                 <h3 class="media-heading"><a href="#">Spain going to made class football</a></h3>
-                                <span class="rating">
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star-half-full"></i>
-                                </span>
+                                <div class="comment_box">
+                                    <div class="comments_icon"> <i class="fa fa-comments" aria-hidden="true"></i></div>
+                                    <div class="comments"><a href="#">20 Comments</a></div>
+                                </div><!--comment_box-->
                             </div><!--media-body-->
                         </div><!--media-->
                     </div><!--tab-pane-->
@@ -643,7 +429,13 @@
                         </div><!--video_info-->
                     </div>
                 </div><!--feature_video_slider-->
-
+                <br />
+                <div class="row">
+                    <div class="col-xs-12">
+                        <center>
+                            <a href="#"> More Post... </a>
+                        </center>
+                    </div></div>
 
             </div><!--col-xs-12-->
         </div><!--row-->
