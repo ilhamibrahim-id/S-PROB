@@ -21,6 +21,9 @@ Route::get('/kategori', function () {
 Route::get('/detail', function () {
     return view('foruser.detailpost');
 });
+Route::get('/detailuser', function () {
+    return view('foruser.detailuser');
+});
 
 Route::get('/login', function () {
     return view('login.login');
