@@ -54,8 +54,7 @@
                                     <li class="dropdown">
                                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Hi, Ilham Ibrahim <b class="caret"></b></a>
                                         <ul class="dropdown-menu">
-                                            <li><a href="#">Edit Profil</a></li>
-                                            <li><a href="#">Detail Profil</a></li>
+                                            <li><a href="/detailuser">Detail Profil</a></li>
                                             <li><a href="#">Logout</a></li>
                                         </ul>
                                     </li>

@@ -24,7 +24,9 @@ Route::get('/detail', function () {
 Route::get('/detailuser', function () {
     return view('foruser.detailuser');
 });
-
+Route::get('/edituser', function () {
+    return view('foruser.edituser');
+});
 Route::get('/login', function () {
     return view('login.login');
 });
