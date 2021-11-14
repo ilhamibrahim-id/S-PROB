@@ -12,7 +12,9 @@
                         <div class="item active feature_news_item">
                             <div class="item_wrapper">
                                 <div class="item_img">
+                                    <center>
                                     <img class="img-responsive" src="{{ asset('img/img-carousel1.jpg')}}" alt="Chania">
+                                    </center>
                                 </div> <!--item_img-->
                                 <div class="item_title_date">
                                     <div class="news_item_title">
@@ -28,7 +30,9 @@
                         <div class="item feature_news_item">
                             <div class="item_wrapper">
                                 <div class="item_img">
+                                    <center>
                                     <img class="img-responsive" src="{{ asset('img/img-carousel2.jpg')}}" alt="Chania">
+                                    </center>
                                 </div> <!--item_img-->
                                 <div class="item_title_date">
                                     <div class="news_item_title">

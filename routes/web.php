@@ -15,6 +15,13 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('foruser.dashboard');
 });
+Route::get('/kategori', function () {
+    return view('foruser.kategori');
+});
+Route::get('/detail', function () {
+    return view('foruser.detailpost');
+});
+
 Route::get('/login', function () {
     return view('login.login');
 });

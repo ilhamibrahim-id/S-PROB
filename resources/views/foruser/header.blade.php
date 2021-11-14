@@ -70,7 +70,7 @@
 				<div class="row">
 		    	 	<div class="col-md-3">
 						<div class="logo">
-						<a  href="index.html"><img class="img-responsive" src="{{ asset('img/logo.png')}}" alt=""></a>
+						<a  href="/"><img class="img-responsive" src="{{ asset('img/logo.png')}}" alt=""></a>
 						</div><!--logo-->
 		    	 	</div><!--col-md-3-->
 
@@ -107,15 +107,15 @@
 				<div id="navbar" class="collapse navbar-collapse sidebar-offcanvas">
 				<ul class="nav navbar-nav">
 					<li class="hidden"><a href="#page-top"></a></li>
-					<li><a class="page-scroll" href="category.html">Baseball</a></li>
-					<li><a class="page-scroll" href="category.html">Football</a></li>
-					<li><a class="page-scroll" href="category.html">Hockey</a></li>
-					<li><a class="page-scroll" href="category.html">Basketball</a></li>
-					<li><a class="page-scroll" href="category.html">Boxing</a></li>
-					<li><a class="page-scroll" href="category.html">Golf</a></li>
-					<li><a class="page-scroll" href="category.html">Tennis</a></li>
-					<li><a class="page-scroll" href="category.html">Horse racing</a></li>
-					<li><a class="page-scroll" href="category.html">Track & Field</a></li>
+					<li><a class="page-scroll" href="/kategori">Baseball</a></li>
+					<li><a class="page-scroll" href="/kategori">Baseball</a></li>
+                    <li><a class="page-scroll" href="/kategori">Baseball</a></li>
+                    <li><a class="page-scroll" href="/kategori">Baseball</a></li>
+                    <li><a class="page-scroll" href="/kategori">Baseball</a></li>
+                    <li><a class="page-scroll" href="/kategori">Baseball</a></li>
+                    <li><a class="page-scroll" href="/kategori">Baseball</a></li>
+                    <li><a class="page-scroll" href="/kategori">Baseball</a></li>
+                    <li><a class="page-scroll" href="/kategori">Baseball</a></li>
 
 					<li class="dropdown">
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown">More <b class="caret"></b></a>
