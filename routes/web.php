@@ -30,13 +30,4 @@ Route::get('/edituser', function () {
 Route::get('/mypost', function () {
     return view('foruser.dashboardpost');
 });
-Route::get('/login', function () {
-    return view('login.login');
-});
-Route::get('/register', function () {
-    return view('login.register');
-});
-Route::get('/forgot', function () {
-    return view('Login.forgotpw');
-});
 
