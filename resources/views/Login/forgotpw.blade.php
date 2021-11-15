@@ -12,8 +12,8 @@
 					<span class="login100-form-title">
 						Reset Password
                         <br />
-                        <a class="txt2" href="/">
-							Kembali Ke Dashboard
+                        <a class="txt2" href="/login">
+							Kembali Ke Login
 							<i class="fa fa-long-arrow-right m-l-5" aria-hidden="true"></i>
 						</a>
 					</span>
@@ -30,18 +30,6 @@
 						<button class="login100-form-btn">
 							Send Reset Password
 						</button>
-					</div>
-
-					<div class="text-center p-t-70">
-                        <a class="txt2" href="/login">
-							Sudah punya akun ? login disini
-							<i class="fa fa-long-arrow-right m-l-5" aria-hidden="true"></i>
-						</a>
-                        <br />
-						<a class="txt2" href="/register">
-							Belum punya akun ? daftar disini
-							<i class="fa fa-long-arrow-right m-l-5" aria-hidden="true"></i>
-						</a>
 					</div>
 				</form>
 			</div>

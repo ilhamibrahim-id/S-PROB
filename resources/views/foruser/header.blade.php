@@ -7,7 +7,7 @@
     <title>Sports</title>
     <!-- Goole Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Oswald:400,700|Roboto:400,500" rel="stylesheet">
-
+    <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
     <!-- Bootstrap -->
     <link href="{{ asset('css/bootstrap.min.css')}}" rel="stylesheet">
 
@@ -77,17 +77,7 @@
 		    	 	</div><!--col-md-6-->
 
 		    	 	<div class="col-md-3">
-						<div class="social_icon1">
-								<a class="icons-sm fb-ic"><i class="fa fa-facebook"></i></a>
-								<!--Twitter-->
-								<a class="icons-sm tw-ic"><i class="fa fa-twitter"></i></a>
-								<!--Google +-->
-								<a class="icons-sm gplus-ic"><i class="fa fa-google-plus"> </i></a>
-								<!--Linkedin-->
-								<a class="icons-sm li-ic"><i class="fa fa-linkedin"> </i></a>
-								<!--Pinterest-->
-								<a class="icons-sm pin-ic"><i class="fa fa-pinterest"> </i></a>
-						</div> <!--social_icon1-->
+                            <a href="/mypost"<button type="button" class="btn btn-danger" style="float: right; padding: 15px 25px 15px 25px; margin-top: 15px;"><i class="icon-pencil"> </i> &nbsp;Tulis Postingan Baru</button></a>
 		    	 	</div><!--col-md-3-->
 		    	</div> <!--row-->
 	     	</div><!--header-section-->
