@@ -30,4 +30,9 @@ Route::get('/edituser', function () {
 Route::get('/mypost', function () {
     return view('foruser.dashboardpost');
 });
-
+Route::get('/allpost', function () {
+    return view('foruser.allpost');
+});
+Route::get('/detailmaster', function () {
+    return view('foruser.detailuserother');
+});

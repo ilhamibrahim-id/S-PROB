@@ -26,12 +26,10 @@
         </div>
         <div class="col-md-12"  style="padding-top: 30px;">
             <hr style="height:2px;border-width:0;color:gray;background-color:gray">
-            <button type="button" class="btn btn-danger" style="float: right;">Hapus</button><button type="button" class="btn btn-success" style="float: right;">Edit</button>
             <div class="single_media_title"><h2>Postingan, Bang haji</h2></div>
             <table class="table table-striped table-dark">
                 <thead>
                   <tr>
-                    <th scope="col" width="10%">Pilih</th>
                     <th scope="col" width="25%">Foto</th>
                     <th scope="col" width="25%">Judul</th>
                     <th scope="col">Isi</th>
@@ -39,28 +37,16 @@
                 </thead>
                 <tbody>
                   <tr>
-                    <th scope="row"><div class="form-check">
-                        <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
-                        </label>
-                      </div></th>
                     <td>Mark</td>
                     <td>Otto</td>
                     <td>@mdo</td>
                   </tr>
                   <tr>
-                    <th scope="row"><div class="form-check">
-                        <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
-                        </label>
-                      </div></th>
                     <td>Jacob</td>
                     <td>Thornton</td>
                     <td>@fat</td>
                   </tr>
                   <tr>
-                    <th scope="row"><div class="form-check">
-                        <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
-                        </label>
-                      </div></th>
                     <td>Larry</td>
                     <td>the Bird</td>
                     <td>@twitter</td>

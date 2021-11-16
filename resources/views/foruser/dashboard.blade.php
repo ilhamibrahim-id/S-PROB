@@ -18,7 +18,7 @@
                                 </div> <!--item_img-->
                                 <div class="item_title_date">
                                     <div class="news_item_title">
-                                        <h2><a href="single.html">Seamlessly embrace B2C catalysts for change vis-a-vis economically sound communities.</a></h2>
+                                        <h2><a href="/kategori">Seamlessly embrace B2C catalysts for change vis-a-vis economically sound communities.</a></h2>
                                     </div>
                                     <div class="item_meta"><a href="#">20Aug- 2015,</a> by:<a href="#">Jhonson</a></div>
                                 </div> <!--item_title_date-->
@@ -387,7 +387,7 @@
     <div class="row">
         <div class="col-xs-12">
             <div class="feature_video_wrapper">
-                <div class="feature_video_title"><h2>Featured Videos</h2></div>
+                <div class="feature_video_title"><h2>Postingan Terkini</h2></div>
 
                 <div id="feature_video_slider" class="owl-carousel">
                     <div class="item">
@@ -437,7 +437,7 @@
                 <div class="row">
                     <div class="col-xs-12">
                         <center>
-                            <a href="#"> More Post... </a>
+                            <a href="/allpost"> More Post... </a>
                         </center>
                     </div></div>
 

@@ -54,7 +54,7 @@
                                     <li class="dropdown">
                                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Hi, Ilham Ibrahim <b class="caret"></b></a>
                                         <ul class="dropdown-menu">
-                                            <li><a href="/detailuser">Detail Profil</a></li>
+                                            <li><a href="/detailmaster">Detail Profil</a></li>
                                             <li><a href="#">Logout</a></li>
                                         </ul>
                                     </li>
@@ -95,19 +95,8 @@
 				</div>
 				<div id="navbar" class="collapse navbar-collapse sidebar-offcanvas">
 				<ul class="nav navbar-nav">
-					<li class="hidden"><a href="#page-top"></a></li>
-					<li><a class="page-scroll" href="/kategori">Baseball</a></li>
-					<li><a class="page-scroll" href="/kategori">Baseball</a></li>
-                    <li><a class="page-scroll" href="/kategori">Baseball</a></li>
-                    <li><a class="page-scroll" href="/kategori">Baseball</a></li>
-                    <li><a class="page-scroll" href="/kategori">Baseball</a></li>
-                    <li><a class="page-scroll" href="/kategori">Baseball</a></li>
-                    <li><a class="page-scroll" href="/kategori">Baseball</a></li>
-                    <li><a class="page-scroll" href="/kategori">Baseball</a></li>
-                    <li><a class="page-scroll" href="/kategori">Baseball</a></li>
-
 					<li class="dropdown">
-						<a href="#" class="dropdown-toggle" data-toggle="dropdown">More <b class="caret"></b></a>
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown" style="font-size: 30px;">Piih Kategori<b class="caret"></b></a>
 						<ul class="dropdown-menu">
 							<li><a href="#">Action</a></li>
 							<li><a href="#">Another action</a></li>

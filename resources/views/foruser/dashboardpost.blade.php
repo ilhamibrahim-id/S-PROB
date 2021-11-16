@@ -2,8 +2,8 @@
 @section('konten')
 <div class="container">
     <div class="row">
-        <div class="col-md-12"  style="padding-top: 30px;">
-            <p style="font-size: 30px;"><b> MyPost</b></p>
+        <div class="col-md-12"  style="padding-top: 30px; padding-bottom: 30px;">
+            <p style="font-size: 30px;"><b>Tambahkan Post</b></p>
         </div>
         <div class="col-md-12"  style="padding-top: 30px;">
             <hr style="height:2px;border-width:0;color:gray;background-color:gray">
@@ -24,7 +24,10 @@
                             </select>
                         </div>
                         <div class="form-group comment">
-                            <textarea class="form-control" id="inputComment" placeholder="Comment"></textarea>
+                            <textarea class="form-control" id="inputComment" placeholder="Deskripsi"></textarea>
+                        </div>
+                        <div class="form-group comment">
+                            <textarea class="form-control" id="inputComment" placeholder="Tag Kategori gunakan (,) sebagai pemisah"></textarea>
                         </div>
                         <div class="form-group">
                             <input type="file" class="form-control" id="foto">
@@ -35,51 +38,6 @@
                 </div><!--comment_form-->
             </div><!--add_a_comment-->
         </div>
-        <div class="col-md-12"  style="padding-top: 30px;">
-            <hr style="height:2px;border-width:0;color:gray;background-color:gray">
-            <div class="single_media_title"><h2>Postingan Tesimpan</h2></div>
-            <button type="button" class="btn btn-danger" style="float: right;">Hapus</button><button type="button" class="btn btn-success" style="float: right;">Edit</button>
-            <table class="table table-striped table-dark">
-                <thead>
-                  <tr>
-                    <th scope="col" width="10%">Pilih</th>
-                    <th scope="col" width="25%">Foto</th>
-                    <th scope="col" width="25%">Judul</th>
-                    <th scope="col">Isi</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  <tr>
-                    <th scope="row"><div class="form-check">
-                        <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
-                        </label>
-                      </div></th>
-                    <td>Mark</td>
-                    <td>Otto</td>
-                    <td>@mdo</td>
-                  </tr>
-                  <tr>
-                    <th scope="row"><div class="form-check">
-                        <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
-                        </label>
-                      </div></th>
-                    <td>Jacob</td>
-                    <td>Thornton</td>
-                    <td>@fat</td>
-                  </tr>
-                  <tr>
-                    <th scope="row"><div class="form-check">
-                        <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
-                        </label>
-                      </div></th>
-                    <td>Larry</td>
-                    <td>the Bird</td>
-                    <td>@twitter</td>
-                  </tr>
-                </tbody>
-              </table>
-
-              paginate
         </div>
     </div>
 </div>

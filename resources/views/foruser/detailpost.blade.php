@@ -44,6 +44,13 @@
                                     <br /><br />
                                     Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam
                                 </div><!--item_content-->
+                                <div class="category_list">
+                                    <a href="#">Messi</a>
+                                    <a href="#">Leonel</a>
+                                    <a href="#">Bercelona</a>
+                                    <a href="#">Argentina</a>
+                                    <a href="#">Football</a>
+                                </div><!--category_list-->
                         </div><!--item_wrapper-->
                 </div><!--feature_news_item-->
 
@@ -51,7 +58,7 @@
                     <div class="single_media_title"><h2>Related Comments</h2></div>
                     <div class="media">
                         <div class="media-left">
-                            <a href="#">
+                            <a href="/detailmaster">
                                 <img alt="64x64" class="media-object" data-src="img/img-author1.jpg"
                                      src="img/img-author1.jpg" data-holder-rendered="true">
                             </a>
