@@ -15,7 +15,7 @@
                         <h5 class="card-title">10 <br /> Follower</h5>
                     </div>
                     <div class="col-xs-12" style="text-align: center; padding-top: 15px; padding-bottom: 15px;">
-                        <a href="#" class="btn btn-primary">Follow, Bang Haji</a>
+                        <a href="/edituser" class="btn btn-primary">Edit My Profil</a>
                     </div>
                     <p class="card-text">iki quotes e bang haji e iki quotes e bang haji e iki quotes e bang haji e</p>
                     <div class="col-xs-6" style="text-align: center; padding-top: 20px; padding-bottom: 20px;">
