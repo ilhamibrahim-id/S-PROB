@@ -27,7 +27,7 @@
         <div class="col-md-12"  style="padding-top: 30px;">
             <hr style="height:2px;border-width:0;color:gray;background-color:gray">
             <button type="button" class="btn btn-danger" style="float: right;">Hapus</button><button type="button" class="btn btn-success" style="float: right;">Edit</button>
-            <div class="single_media_title"><h2>Postingan, Bang haji</h2></div>
+            <div class="single_media_title"><h2>Postingan Saya</h2></div>
             <table class="table table-striped table-dark">
                 <thead>
                   <tr>
