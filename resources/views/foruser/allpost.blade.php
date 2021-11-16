@@ -4,7 +4,7 @@
     <div class="row">
         <div class="col-xs-4">
             <div class="card" style="padding-bottom: 15px;">
-                  <svg class="bd-placeholder-img card-img-top" width="100%" height="180" xmlns="http://www.w3.org/2000/svg" aria-label="Placeholder: Image cap" preserveAspectRatio="xMidYMid slice" role="img"><title>Placeholder</title><rect width="100%" height="100%" fill="#868e96"/><text x="50%" y="50%" fill="#dee2e6" dy=".3em">Image cap</text></svg>
+                  <img class="img-responsive" src="img/category.jpg" alt="Chania" width="450px;">
 
                 <div class="card-body">
                     <h5 class="card-title">Card title</h5>
@@ -15,7 +15,7 @@
         </div>
         <div class="col-xs-4">
             <div class="card" style="padding-bottom: 15px;">
-                  <svg class="bd-placeholder-img card-img-top" width="100%" height="180" xmlns="http://www.w3.org/2000/svg" aria-label="Placeholder: Image cap" preserveAspectRatio="xMidYMid slice" role="img"><title>Placeholder</title><rect width="100%" height="100%" fill="#868e96"/><text x="50%" y="50%" fill="#dee2e6" dy=".3em">Image cap</text></svg>
+                  <img class="img-responsive" src="img/category.jpg" alt="Chania" width="450px;">
 
                 <div class="card-body">
                     <h5 class="card-title">Card title</h5>
@@ -26,7 +26,7 @@
         </div>
         <div class="col-xs-4">
             <div class="card" style="padding-bottom: 15px;">
-                  <svg class="bd-placeholder-img card-img-top" width="100%" height="180" xmlns="http://www.w3.org/2000/svg" aria-label="Placeholder: Image cap" preserveAspectRatio="xMidYMid slice" role="img"><title>Placeholder</title><rect width="100%" height="100%" fill="#868e96"/><text x="50%" y="50%" fill="#dee2e6" dy=".3em">Image cap</text></svg>
+                  <img class="img-responsive" src="img/category.jpg" alt="Chania" width="450px;">
 
                 <div class="card-body">
                     <h5 class="card-title">Card title</h5>
@@ -37,7 +37,7 @@
         </div>
         <div class="col-xs-4">
             <div class="card" style="padding-bottom: 15px;">
-                  <svg class="bd-placeholder-img card-img-top" width="100%" height="180" xmlns="http://www.w3.org/2000/svg" aria-label="Placeholder: Image cap" preserveAspectRatio="xMidYMid slice" role="img"><title>Placeholder</title><rect width="100%" height="100%" fill="#868e96"/><text x="50%" y="50%" fill="#dee2e6" dy=".3em">Image cap</text></svg>
+                  <img class="img-responsive" src="img/category.jpg" alt="Chania" width="450px;">
 
                 <div class="card-body">
                     <h5 class="card-title">Card title</h5>
@@ -48,7 +48,7 @@
         </div>
         <div class="col-xs-4">
             <div class="card" style="padding-bottom: 15px;">
-                  <svg class="bd-placeholder-img card-img-top" width="100%" height="180" xmlns="http://www.w3.org/2000/svg" aria-label="Placeholder: Image cap" preserveAspectRatio="xMidYMid slice" role="img"><title>Placeholder</title><rect width="100%" height="100%" fill="#868e96"/><text x="50%" y="50%" fill="#dee2e6" dy=".3em">Image cap</text></svg>
+                  <img class="img-responsive" src="img/category.jpg" alt="Chania" width="450px;">
 
                 <div class="card-body">
                     <h5 class="card-title">Card title</h5>
