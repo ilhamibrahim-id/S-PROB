@@ -8,19 +8,19 @@
                     <center><img class="img-responsive" src="img/category.jpg" alt="Chania" width="450px;"></center>
                 </div>
                 <div class="card-body" style="text-align: center; padding-top: 15px;">
-                    <div class="col-xs-6" style="text-align: center;">
+                    <div class="col-xs-4" style="text-align: center;">
                     <h5 class="card-title">10 <br /> Follower </br></h5>
                     </div>
-                    <div class="col-xs-6" style="text-align: center;">
+                    <div class="col-xs-4" style="text-align: center;">
+                        <h5 class="card-title">10 <br /> Jumlah Post</h5>
+                    </div>
+                    <div class="col-xs-4" style="text-align: center;">
                         <h5 class="card-title">10 <br /> Follower</h5>
                     </div>
                     <div class="col-xs-12" style="text-align: center; padding-top: 15px; padding-bottom: 15px;">
                         <a href="#" class="btn btn-primary">Follow, Bang Haji</a>
                     </div>
                     <p class="card-text">iki quotes e bang haji e iki quotes e bang haji e iki quotes e bang haji e</p>
-                    <div class="col-xs-6" style="text-align: center; padding-top: 20px; padding-bottom: 20px;">
-                        <i class="fa fa-address-book fa-2x" aria-hidden="true"> 0897473787</i>
-                    </div>
                 </div>
             </div>
         </div>
