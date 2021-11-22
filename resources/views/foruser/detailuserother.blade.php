@@ -27,34 +27,90 @@
         <div class="col-md-12"  style="padding-top: 30px;">
             <hr style="height:2px;border-width:0;color:gray;background-color:gray">
             <div class="single_media_title"><h2>Postingan, Bang haji</h2></div>
-            <table class="table table-striped table-dark">
-                <thead>
-                  <tr>
-                    <th scope="col" width="25%">Foto</th>
-                    <th scope="col" width="25%">Judul</th>
-                    <th scope="col">Isi</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  <tr>
-                    <td>Mark</td>
-                    <td>Otto</td>
-                    <td>@mdo</td>
-                  </tr>
-                  <tr>
-                    <td>Jacob</td>
-                    <td>Thornton</td>
-                    <td>@fat</td>
-                  </tr>
-                  <tr>
-                    <td>Larry</td>
-                    <td>the Bird</td>
-                    <td>@twitter</td>
-                  </tr>
-                </tbody>
-              </table>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-4 col-xs-12 col-md-6">
+                        <div class="card" style="padding-bottom: 25px; padding-top: 10px;">
+                              <img class="img-responsive" src="img/category.jpg" alt="Chania" width="450px;">
 
-              paginate
+                            <div class="card-body">
+                                <a href="/detail">
+                                <h5 class="card-title">Card title</h5>
+                                <p class="card-text">Quick sample text to create the card title and make up the body of the card's content.</p>
+                                </a>
+                                <div class="comment_box">
+                                    <div class="comments_icon"> <i class="fa fa-comments" aria-hidden="true"></i></div>
+                                    <div class="comments"><a href="#">20 Comments</a></div>
+                                </div><!--comment_box-->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-xs-12 col-md-6">
+                        <div class="card" style="padding-bottom: 25px; padding-top: 10px;">
+                              <img class="img-responsive" src="img/category.jpg" alt="Chania" width="450px;">
+
+                            <div class="card-body">
+                                <a href="/detail">
+                                <h5 class="card-title">Card title</h5>
+                                <p class="card-text">Quick sample text to create the card title and make up the body of the card's content.</p>
+                                </a>
+                                <div class="comment_box">
+                                    <div class="comments_icon"> <i class="fa fa-comments" aria-hidden="true"></i></div>
+                                    <div class="comments"><a href="#">20 Comments</a></div>
+                                </div><!--comment_box-->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-xs-12 col-md-6">
+                        <div class="card" style="padding-bottom: 25px; padding-top: 10px;">
+                              <img class="img-responsive" src="img/category.jpg" alt="Chania" width="450px;">
+
+                            <div class="card-body">
+                                <a href="/detail">
+                                <h5 class="card-title">Card title</h5>
+                                <p class="card-text">Quick sample text to create the card title and make up the body of the card's content.</p>
+                                </a>
+                                <div class="comment_box">
+                                    <div class="comments_icon"> <i class="fa fa-comments" aria-hidden="true"></i></div>
+                                    <div class="comments"><a href="#">20 Comments</a></div>
+                                </div><!--comment_box-->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-xs-12 col-md-6">
+                        <div class="card" style="padding-bottom: 25px; padding-top: 10px;">
+                              <img class="img-responsive" src="img/category.jpg" alt="Chania" width="450px;">
+
+                            <div class="card-body">
+                                <a href="/detail">
+                                <h5 class="card-title">Card title</h5>
+                                <p class="card-text">Quick sample text to create the card title and make up the body of the card's content.</p>
+                                </a>
+                                <div class="comment_box">
+                                    <div class="comments_icon"> <i class="fa fa-comments" aria-hidden="true"></i></div>
+                                    <div class="comments"><a href="#">20 Comments</a></div>
+                                </div><!--comment_box-->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-xs-12 col-md-6">
+                        <div class="card" style="padding-bottom: 25px; padding-top: 10px;">
+                              <img class="img-responsive" src="img/category.jpg" alt="Chania" width="450px;">
+
+                            <div class="card-body">
+                                <a href="/detail">
+                                <h5 class="card-title">Card title</h5>
+                                <p class="card-text">Quick sample text to create the card title and make up the body of the card's content.</p>
+                                </a>
+                                <div class="comment_box">
+                                    <div class="comments_icon"> <i class="fa fa-comments" aria-hidden="true"></i></div>
+                                    <div class="comments"><a href="#">20 Comments</a></div>
+                                </div><!--comment_box-->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </div>

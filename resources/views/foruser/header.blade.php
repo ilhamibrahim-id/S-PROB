@@ -55,6 +55,7 @@
                                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Hi, Ilham Ibrahim <b class="caret"></b></a>
                                         <ul class="dropdown-menu">
                                             <li><a href="/detailuser">Detail Profil</a></li>
+                                            <li><a href="/notif">Pesan <span class="badge badge-light">9</span></a></li>
                                             <li><a href="#">Logout</a></li>
                                         </ul>
                                     </li>

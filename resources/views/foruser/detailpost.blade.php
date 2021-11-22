@@ -70,8 +70,6 @@
 
 
                             <div class="comment_article_social">
-                                <a href="#"><i class="fa fa-thumbs-o-up" aria-hidden="true"></i></a>
-                                <a href="#"><i class="fa fa-thumbs-o-down" aria-hidden="true"></i></a>
                                 <a href="#"><span class="reply_ic">Reply </span></a>
                             </div>
                             <div class="media reply">
@@ -88,8 +86,6 @@
                                     resultant pleasure?
 
                                     <div class="comment_article_social">
-                                        <a href="#"><i class="fa fa-thumbs-o-up" aria-hidden="true"></i></a>
-                                        <a href="#"><i class="fa fa-thumbs-o-down" aria-hidden="true"></i></a>
                                         <a href="#"><span class="reply_ic"> Reply </span></a>
                                     </div>
                                 </div>
@@ -110,8 +106,6 @@
                             no annoying consequences, or one who avoids a pain that produces no resultant pleasure?
 
                             <div class="comment_article_social">
-                                <a href="#"><i class="fa fa-thumbs-o-up" aria-hidden="true"></i></a>
-                                <a href="#"><i class="fa fa-thumbs-o-down" aria-hidden="true"></i></a>
                                 <a href="#"><span class="reply_ic"> Reply </span></a>
                             </div>
                         </div>

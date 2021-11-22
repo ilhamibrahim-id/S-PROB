@@ -36,3 +36,6 @@ Route::get('/allpost', function () {
 Route::get('/detailmaster', function () {
     return view('foruser.detailuserother');
 });
+Route::get('/notif', function () {
+    return view('foruser.notif');
+});
