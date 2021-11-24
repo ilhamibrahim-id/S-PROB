@@ -96,8 +96,18 @@
 				</div>
 				<div id="navbar" class="collapse navbar-collapse sidebar-offcanvas">
 				<ul class="nav navbar-nav">
+                    <li class="hidden"><a href="#page-top"></a></li>
+					<li><a class="page-scroll" href="/allpost">All Post</a></li>
+					<li><a class="page-scroll" href="/kategori">Kategori 1</a></li>
+					<li><a class="page-scroll" href="/kategori">Kategori 1</a></li>
+					<li><a class="page-scroll" href="/kategori">Kategori 1</a></li>
+					<li><a class="page-scroll" href="/kategori">Kategori 1</a></li>
+					<li><a class="page-scroll" href="/kategori">Kategori 1</a></li>
+					<li><a class="page-scroll" href="/kategori">Kategori 1</a></li>
+					<li><a class="page-scroll" href="/kategori">Kategori 1</a></li>
+					<li><a class="page-scroll" href="/kategori">Kategori 1</a></li>
 					<li class="dropdown">
-						<a href="#" class="dropdown-toggle" data-toggle="dropdown" style="font-size: 30px;">Piih Kategori<b class="caret"></b></a>
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown">More <b class="caret"></b></a>
 						<ul class="dropdown-menu">
 							<li><a href="/allpost">All Post</a></li>
 							<li><a href="/kategori">Baseball</a></li>

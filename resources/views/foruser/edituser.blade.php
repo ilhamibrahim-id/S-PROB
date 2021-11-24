@@ -14,33 +14,16 @@
 							<i class="fa fa-long-arrow-right m-l-5" aria-hidden="true"></i>
 						</a>
 					</span>
+                    <span class="symbol-input100">
+                        <i class="fa fa-comment" aria-hidden="true"></i>
+                    </span>
                     <div class="wrap-input100 validate-input" data-validate = "Valid email is required: ex@abc.xyz">
-						<input class="input100" type="text" name="email" placeholder="Email" readonly="readonly" value="ilham ibrahim">
-						<span class="focus-input100"></span>
-						<span class="symbol-input100">
-							<i class="fa fa-envelope" aria-hidden="true"></i>
-						</span>
-					</div>
-                    <div class="wrap-input100 validate-input" data-validate = "Valid email is required: ex@abc.xyz">
-						<input class="input100" type="text" name="email" placeholder="Email" readonly="readonly" value="ilham ibrahim">
-						<span class="focus-input100"></span>
-						<span class="symbol-input100">
-							<i class="fa fa-envelope" aria-hidden="true"></i>
-						</span>
-					</div>
-                    <div class="wrap-input100 validate-input" data-validate = "Valid email is required: ex@abc.xyz">
-						<input class="input100" type="text" name="email" placeholder="Email" readonly="readonly" value="ilham ibrahim">
-						<span class="focus-input100"></span>
-						<span class="symbol-input100">
-							<i class="fa fa-envelope" aria-hidden="true"></i>
-						</span>
-					</div>
-                    <div class="wrap-input100 validate-input" data-validate = "Valid email is required: ex@abc.xyz">
-						<input class="input100" type="text" name="email" placeholder="Email" readonly="readonly" value="ilham ibrahim">
-						<span class="focus-input100"></span>
-						<span class="symbol-input100">
-							<i class="fa fa-envelope" aria-hidden="true"></i>
-						</span>
+                        <input type="text" class="form-control" id="inputName" placeholder="Nama">
+                        <br />
+                        <textarea class="form-control" id="inputComment" placeholder="Rubah Kata kata"></textarea>
+                        <br />
+                        <input type="file" class="form-control" id="foto">
+                        <p> Ganti foto ? jika tidak biarkan kosong </p>
 					</div>
                     <div class="container-login100-form-btn">
                     <button class="login101-form-btn">

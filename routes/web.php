@@ -39,3 +39,9 @@ Route::get('/detailmaster', function () {
 Route::get('/notif', function () {
     return view('foruser.notif');
 });
+Route::get('/code', function () {
+    return view('Login.forgotpwcode');
+});
+Route::get('/reset', function () {
+    return view('Login.forgotpwreset');
+});
