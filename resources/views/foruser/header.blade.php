@@ -48,18 +48,27 @@
 		    			<div class="top_ber_right">
 		    				<div class="top-menu">
 		    					<ul class="nav navbar-nav">
-			                        <li><a href="/login">Login</a></li>
-                                    <li><a href="#">/</a></li>
-			                        <li><a href="/register">Register</a></li>
-                                    <li class="dropdown">
-                                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Hi, Ilham Ibrahim <b class="caret"></b></a>
-                                        <ul class="dropdown-menu">
-                                            <li><a href="/detailuser">Detail Profil</a></li>
-                                            <li><a href="/notif">Pesan <span class="badge badge-light">9</span></a></li>
-                                            <li><a href="#">Logout</a></li>
-                                        </ul>
-                                    </li>
-	                    		</ul>
+										@guest
+											<li><a href="/login">Login</a></li>
+											<li><a href="#">/</a></li>
+											<li><a href="/register">Register</a></li>
+										@else
+											<li class="dropdown">
+													<a href="#" class="dropdown-toggle" data-toggle="dropdown">Hi, {{ auth()->user()->name }} <b class="caret"></b></a>
+													<ul class="dropdown-menu">
+															<li><a href="/detailuser">Detail Profil</a></li>
+															<li><a href="/notif">Pesan <span class="badge badge-light">9</span></a></li>
+															<li>
+																{{-- <a href="#">Logout</a> --}}
+																<form action="{{ route('logout') }}" method="post">
+																	@csrf
+																	<button type="submit">Logout</button>
+																</form>
+															</li>
+													</ul>
+											</li>
+										@endguest
+									</ul>
 		    				</div><!--top-menu-->
 		    			</div><!--top_ber_left-->
 		    		</div><!--col-md-6-->

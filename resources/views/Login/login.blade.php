@@ -1,6 +1,11 @@
 @extends('Login.header')
 @section('konten')
 <body>
+	@if (session('status'))
+		<div class="mb-4 font-medium text-sm text-green-600">
+			{{ session('status') }}
+		</div>
+	@endif
 	<div class="limiter">
 		<div class="container-login100">
 			<div class="wrap-login100">
